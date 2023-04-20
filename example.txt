@@ -3,6 +3,10 @@ This song is about git
 La la la
 I hope I will understand it
 Oooooh Git you are so hard
+<<<<<<< HEAD
 Oooooh i try to let you in my heart
 
 Add new line
+=======
+Oooooh i try to let you in my heart
+>>>>>>> 996010a339a0ce45f33579f50efa284550aaa5ef
